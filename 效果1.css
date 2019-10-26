@@ -1,0 +1,61 @@
+h1
+{
+    color:red;
+    text-align:center;
+}
+#sum
+{ 
+    background-position:center;
+    width: 0px;
+    height: 0px;
+    border: 20px solid;
+    border-color: blue yellow green red;
+}
+#p1
+{ 
+    text-align:center;
+    width: 0px;
+    height: 0px;
+    border: 20px solid;
+    border-color: blue transparent transparent transparent;
+}
+#p2
+{ 
+    text-align:center;
+    width: 0px;
+    height: 0px;
+    border: 20px solid;
+    border-color: transparent transparent transparent red;
+}
+#p3
+{ 
+    text-align:center;
+    width: 0px;
+    height: 0px;
+    border: 20px solid;
+    border-color: transparent yellow transparent transparent;
+}
+#p4
+{ 
+    text-align:center;
+    width: 0px;
+    height: 0px;
+    border: 20px solid;
+    border-color: transparent transparent green  transparent;
+}
+#p5
+{ 
+    text-align:center;
+    width: 0px;
+    height: 0px;
+    border-bottom: 30px solid red;
+    border-right: 30px solid transparent;
+}
+#p6
+{ 
+    text-align:center;
+    width: 0px;
+    height: 0px;
+    border-bottom: 30px solid green;
+    border-left: 30px solid transparent;
+}

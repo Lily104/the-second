@@ -1,0 +1,19 @@
+table
+{
+    border-collapse: collapse;
+    margin:0 auto;
+}
+.a td
+{
+    border-collapse: collapse;
+    border: 2px solid white;
+    background-color: rgb(223, 217, 217);
+    text-align: center;
+}
+.b td
+{
+    border:1px solid black;
+    border-collapse: collapse;
+    background-color: rgb(253, 241, 241);
+    text-align: center;
+}
